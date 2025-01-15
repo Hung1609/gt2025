@@ -1,6 +1,8 @@
 # given the directed graph as a matrix represent
 # return number of weakly connected component and strongly connected component
 
+# Kruskal implementation
+
 # result:
 # weakly connected component: 1
 # strongly connected component: 9
